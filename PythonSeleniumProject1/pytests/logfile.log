@@ -1,0 +1,26 @@
+2022-12-30 12:15:37,948 :INFO :pytests.test_logging :This is info from logger
+2022-12-30 12:15:37,949 :WARNING :pytests.test_logging :This is warning from logger
+2022-12-30 12:15:37,951 :ERROR :pytests.test_logging :This is error from logger
+2022-12-30 12:15:37,952 :CRITICAL :pytests.test_logging :This is critical from logger
+2022-12-30 12:28:16,356 :INFO :pytests.Baseclass :Arun
+2022-12-30 12:28:16,356 :INFO :pytests.Baseclass :nimmaarun@gmail.com
+2022-12-30 12:31:02,119 :INFO :test_editprofile :Arun
+2022-12-30 12:31:02,120 :INFO :test_editprofile :nimmaarun@gmail.com
+2022-12-30 12:52:46,103 :INFO :test_editprofile :Arun
+2022-12-30 12:52:46,104 :INFO :test_editprofile :nimmaarun@gmail.com
+2022-12-30 12:52:46,150 :INFO :pytests.test_logging :This is info from logger
+2022-12-30 12:52:46,151 :WARNING :pytests.test_logging :This is warning from logger
+2022-12-30 12:52:46,151 :ERROR :pytests.test_logging :This is error from logger
+2022-12-30 12:52:46,151 :CRITICAL :pytests.test_logging :This is critical from logger
+2022-12-30 12:53:02,004 :INFO :test_editprofile :Arun
+2022-12-30 12:53:02,005 :INFO :test_editprofile :nimmaarun@gmail.com
+2022-12-30 12:53:02,027 :INFO :pytests.test_logging :This is info from logger
+2022-12-30 12:53:02,028 :WARNING :pytests.test_logging :This is warning from logger
+2022-12-30 12:53:02,028 :ERROR :pytests.test_logging :This is error from logger
+2022-12-30 12:53:02,028 :CRITICAL :pytests.test_logging :This is critical from logger
+2022-12-30 13:11:33,349 :INFO :test_editprofile :Arun
+2022-12-30 13:11:33,371 :INFO :test_editprofile :nimmaarun@gmail.com
+2022-12-30 13:11:33,399 :INFO :pytests.test_logging :This is info from logger
+2022-12-30 13:11:33,399 :WARNING :pytests.test_logging :This is warning from logger
+2022-12-30 13:11:33,400 :ERROR :pytests.test_logging :This is error from logger
+2022-12-30 13:11:33,400 :CRITICAL :pytests.test_logging :This is critical from logger

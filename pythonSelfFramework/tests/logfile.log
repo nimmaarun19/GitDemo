@@ -1,0 +1,30 @@
+2022-12-30 19:57:09,500 :INFO :test_e2e :Clicked on Shop and proceeding
+2022-12-30 19:57:09,570 :INFO :test_e2e :Getting all Card Locators
+2022-12-30 19:57:36,552 :INFO :test_e2e :Got the success message and asserting
+2022-12-30 20:07:58,044 :INFO :test_e2e :Clicked on Shop and proceeding
+2022-12-30 20:07:58,099 :INFO :test_e2e :Getting all Card Locators
+2022-12-30 20:08:12,599 :INFO :test_e2e :Got the success message and asserting
+2022-12-30 20:10:30,445 :INFO :test_e2e :Clicked on Shop and proceeding
+2022-12-30 20:10:30,498 :INFO :test_e2e :Getting all Card Locators
+2022-12-30 20:10:45,754 :INFO :test_e2e :Got the success message and asserting
+2022-12-31 13:00:34,231 :INFO :test_e2e :Clicked on Shop and proceeding
+2022-12-31 13:00:34,386 :INFO :test_e2e :Getting all Card Locators
+2022-12-31 13:00:48,853 :INFO :test_e2e :Got the success message and asserting
+2022-12-31 13:20:51,287 :INFO :test_e2e :Clicked on Shop and proceeding
+2022-12-31 13:20:51,388 :INFO :test_e2e :Getting all Card Locators
+2022-12-31 13:21:11,999 :INFO :test_e2e :Got the success message and asserting
+2022-12-31 13:51:09,831 :INFO :test_e2e :Clicked on Shop and proceeding
+2022-12-31 13:51:09,883 :INFO :test_e2e :Getting all Card Locators
+2022-12-31 13:51:24,313 :INFO :test_e2e :Got the success message and asserting
+2022-12-31 13:56:30,614 :INFO :test_e2e :Clicked on Shop and proceeding
+2022-12-31 13:56:30,673 :INFO :test_e2e :Getting all Card Locators
+2022-12-31 13:56:45,137 :INFO :test_e2e :Got the success message and asserting
+2022-12-31 14:06:28,044 :INFO :test_e2e :Clicked on Shop and proceeding
+2022-12-31 14:06:28,095 :INFO :test_e2e :Getting all Card Locators
+2022-12-31 14:06:42,160 :INFO :test_e2e :Got the success message and asserting
+2022-12-31 14:09:03,748 :INFO :test_e2e :Clicked on Shop and proceeding
+2022-12-31 14:09:03,794 :INFO :test_e2e :Getting all Card Locators
+2022-12-31 14:09:18,531 :INFO :test_e2e :Got the success message and asserting
+2022-12-31 14:16:11,023 :INFO :test_e2e :Clicked on Shop and proceeding
+2022-12-31 14:16:11,072 :INFO :test_e2e :Getting all Card Locators
+2022-12-31 14:16:25,435 :INFO :test_e2e :Got the success message and asserting
